@@ -1,0 +1,19 @@
+.Timer {
+  width: 180px;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  background: #000000;
+  border-radius: 0.5rem;
+}
+
+.time {
+  margin-top: 1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.red {
+  color: #da0b4c;
+}

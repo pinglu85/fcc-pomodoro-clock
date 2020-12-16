@@ -1,0 +1,13 @@
+.LengthControl {
+  text-align: center;
+}
+
+.label {
+  font-size: 1.125rem;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 0.5rem;
+}

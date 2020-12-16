@@ -1,0 +1,15 @@
+.LengthControls {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 2rem 0;
+}
+
+@media (min-width: 577px) {
+  .LengthControls {
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+}

@@ -1,0 +1,35 @@
+.Button {
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1.5rem;
+  color: #ececec;
+  background: transparent;
+  border: none;
+}
+
+.Button:focus {
+  outline: none;
+}
+
+.bigButton {
+  display: flex;
+  align-items: center;
+  width: 2.75rem;
+}
+
+.bigButton i:first-child {
+  font-size: 1.25rem;
+}
+
+.smallIcon {
+  font-size: 1.125rem;
+}
+
+.srOnly {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}

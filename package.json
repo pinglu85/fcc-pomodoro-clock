@@ -1,5 +1,5 @@
 {
-  "name": "twenty_five_five_clock",
+  "name": "pomodoro_clock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
