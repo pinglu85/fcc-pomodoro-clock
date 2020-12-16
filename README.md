@@ -1,5 +1,7 @@
 ## freeCodeCamp - Front End Libraries Projects - Build a 25 + 5 Clock
 
+[![Edit 25 + 5 Clock](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/25-5-clock-kuo3x?fontsize=14&hidenavigation=1&theme=dark&view=preview)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
